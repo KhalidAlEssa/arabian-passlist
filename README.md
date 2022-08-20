@@ -1,3 +1,3 @@
-# arabian passowrd list 1.0v
+# arabian passowrd list
 
 nothing to say 
