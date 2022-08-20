@@ -1,3 +1,13 @@
 # arabian passowrd list
 
-nothing to say 
+
+
+- Clone this repository -
+```
+$ git clone https://github.com/KhalidAlEssa/arabian-passlist.git
+```
+
+- update list -
+```
+$ chmod +x  updatelist.sh && bash updatelist.sh 
+```
