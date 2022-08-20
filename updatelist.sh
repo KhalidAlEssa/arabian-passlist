@@ -1,7 +1,7 @@
 # Colors (:
-IYellow='\033[0;93m'
-IGreen='\033[0;92m'
+IYellow="\033[0;93m"
+IGreen="\033[0;92m"
 
-echo "${IYellow}Start Updating.."
+echo -e "${IYellow}Start Updating.."
 git pull
-echo "${IGreen}We Done..!"
+echo -e "${IGreen}We Done..!"
