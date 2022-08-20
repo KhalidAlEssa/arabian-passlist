@@ -1,2 +1,3 @@
-# password-list-arabic
-password list for arabic !!! (demo)
+# arabian passowrd list 1.0v
+
+nothing to say 
